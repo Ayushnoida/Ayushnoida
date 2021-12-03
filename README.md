@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ayushnoida
+- 👋 Hi, I’m ayush kharya
 - 👀 I’m interested in ...python,javascript,sql 
-- 🌱 I’m currently learning ...javascript 
+- 🌱 I’m currently working on python and database 
 - 💞️ I’m looking to collaborate on ...software developer
 - 📫 How to reach me ...8416996643
 
